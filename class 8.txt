@@ -1,0 +1,22 @@
+ Responsive Design
+
+What is breakpoints?
+
+woh points/size ya pixels jaha pa ap ki website different design of particular device ko adopt karna shuru kara.
+When meeting particular size(in px)website starts to adopt the design.
+
+media queries ham ak message bhajta ha particular screen pa
+
+sm (small) size is for mobile phone.
+md (medium) size is for tablet phones or ipad devices 
+lg (large) size is for laptops
+xl ()
+
+
+tailwind css is mobile first
+
+ap ki tailwind css ki classes sa pahla mobile sa apply hona shuru hoga us ka badd tablet sa us ka baad pc par
+
+
+
+npx create-next-app@14.2.2
